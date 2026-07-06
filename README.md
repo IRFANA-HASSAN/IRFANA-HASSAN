@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/IRFANA-HASSAN">
-    <img width="100%" src="./banner.png" alt="Irfana Hassan"/>
+    <img width="100%" src="./heroimg.png" alt="Irfana Hassan"/>
   </a>
 </p>
 
