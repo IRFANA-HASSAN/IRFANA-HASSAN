@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/IRFANA-HASSAN">
+    <img width="100%" src="./banner.png" alt="Irfana Hassan"/>
+  </a>
+</p>
 
-<!--
-**IRFANA-HASSAN/IRFANA-HASSAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught **Full Stack & Mobile App Developer** from India 🇮🇳
 
-Here are some ideas to get you started:
+## A glimpse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Always learning something new and exploring open source.
+- 💻 I enjoy building modern web and mobile applications.
+- 🎯 Interested in Full Stack Development, Mobile Apps and UI/UX.
+- 🌙 Fun fact: "Just one more feature" has ended many of my evenings.
+
+</br>
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,django,python,postgresql,git,github,figma,postman" />
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IRFANA-HASSAN&show_icons=true&hide_border=true&theme=github_dark" />
+  <img height="165" src="https://streak-stats.demolab.com?user=IRFANA-HASSAN&hide_border=true&theme=github-dark-blue" />
+</p>
